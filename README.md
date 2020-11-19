@@ -26,3 +26,7 @@
 **Previously worked with:**
 
 <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
