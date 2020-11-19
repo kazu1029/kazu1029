@@ -17,13 +17,11 @@
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
+<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/kazu1029/kazu1029/master/icons/aws.svg" width="40" height="25" />
 
 **Learning:**
 
 <a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
 
 **Previously worked with:**
 
