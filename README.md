@@ -28,5 +28,9 @@
 <a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
 
 <!--START_SECTION:waka-->
+```text
+VimL       4 mins          ██████████████████░░░░░░░   71.67 % 
+Markdown   1 min           ███████░░░░░░░░░░░░░░░░░░   28.33 % 
+```
 <!--END_SECTION:waka-->
 
