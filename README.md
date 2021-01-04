@@ -45,6 +45,9 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank">
     <img src="icons/ruby-original.svg" alt="ruby" width="40" height="40"/>
   </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="icons/terraform-icon.png" alt="ruby" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kazu1029&label=Profile%20views&color=0e75b6&style=flat" alt="kazu1029" /> </p>
