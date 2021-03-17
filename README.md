@@ -63,10 +63,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Terraform    7 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.83 % 
-TypeScript   3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.59 % 
-Makefile     2 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Go           1 hr 37 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Markdown     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Terraform    6 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   36.77 % 
+TypeScript   3 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Makefile     2 hrs 10 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Go           2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Docker       1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
 ```
 <!--END_SECTION:waka-->
