@@ -63,10 +63,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript                 4 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.60 % 
-Rust                       3 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.32 % 
-Go                         1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Nginx configuration file   1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Bash                       45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Rust                       5 hrs 59 mins   █████████░░░░░░░░░░░░░░░░   35.60 % 
+TypeScript                 3 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+TOML                       1 hr 43 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Go                         1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Nginx configuration file   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 <!--END_SECTION:waka-->
