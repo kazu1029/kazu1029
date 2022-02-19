@@ -63,10 +63,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 21 mins
-
-Go         16 mins         ███████████████████░░░░░░   75.79 % 
-GraphQL    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Markdown   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
